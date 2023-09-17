@@ -2,12 +2,11 @@
 Use 2D U-Net model to perform segmentation of liver segments
 
 # MedSeg Dataset
-MedSeg, H. B. Jenssenand T. Sakinis, “MedSeg Liver segments dataset”. figshare, 26-Jan-2021, doi: 10.6084/m9.figshare.13643252.v2.\n
+MedSeg, H. B. Jenssenand T. Sakinis, “MedSeg Liver segments dataset”. figshare, 26-Jan-2021, doi: 10.6084/m9.figshare.13643252.v2.  
 https://figshare.com/articles/dataset/MedSeg_Liver_segments_dataset/13643252
 
 # Result
-Metric: Dice coefficient\n
-Total average: 0.7162
+Metric: Dice coefficient  Total average: 0.7162
 |Fold|  S1  |  S2  |  S3  |  S4a |  S4b |  S5  |  S6  |  S7  |  S8  |
 |----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 1  |0.3883|0.7677|0.8020|0.6446|0.7794|0.7919|0.7889|0.7706|0.7748|
